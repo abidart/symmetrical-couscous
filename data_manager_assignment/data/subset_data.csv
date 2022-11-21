@@ -1,0 +1,9 @@
+record_ID,m_dob,birthweight,maternal_age,BMI,education,m_race_ethnicity,number_of_prenatal_visits
+3,02/18/1983,4922,38,19.76,Less than High School,Hispanic,6
+8,12/11/1982,4092,38,45.76,High School,Hispanic,9
+9,09/23/1986,2989,35,27.67,College,Hispanic,4
+10,05/06/1980,3982,41,23.57,High School,Non-Hispanic Other,8
+14,09/12/1984,2938,36,27.83,Professional degree,Hispanic,5
+19,07/03/1985,4302,35,25.53,Some College,Hispanic,5
+27,01/31/1984,4019,37,29.68,Missing,Hispanic,6
+30,10/08/1979,3002,42,23.29,High School,Non-Hispanic White,8
