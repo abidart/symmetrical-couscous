@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "data-manager-assignment"
+version = "0.1.0"
+description = ""
+authors = ["Alan BIdart <bidart.alan@gmail.com>"]
+readme = "README.md"
+packages = [{include = "data_manager_assignment"}]
+
+[tool.poetry.dependencies]
+python = "3.11"
+pandas = "^1.5.1"
+matplotlib = "^3.6.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
